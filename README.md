@@ -1,5 +1,4 @@
-Hello I'm https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966
-Harshad Sonar
+Hello I'm ![animation_llxtduha_small](https://github.com/Harshadsonar/Harshadsonar/assets/61082703/38aecbb0-2b89-41b5-960c-b58875d482b5) Harshad Sonar
 <hr>
 <!--
 **Harshadsonar/Harshadsonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB02D&width=435&lines=Hola%2C+%F0%9F%91%8B+I'm++Harshad+Sonar%F0%9F%98%8A;I'm+a+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A509&width=435&lines=I'm+a+Frontend+Developer+" alt="Typing SVG" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Harshadsonar&theme=tokyonight)](https://git.io/streak-stats)
