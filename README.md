@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A509&width=435&lines=I'm+a+Frontend+Developer+" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A509&width=435&lines=I'm+a+Frontend+Developer+)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Harshadsonar&theme=tokyonight)](https://git.io/streak-stats)
