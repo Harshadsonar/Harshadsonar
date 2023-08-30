@@ -1,4 +1,4 @@
-Hello I'm <img src="![animation_llxtduha_small](https://github.com/Harshadsonar/Harshadsonar/assets/61082703/38aecbb0-2b89-41b5-960c-b58875d482b5)"> Harshad Sonar
+Hello I'm Harshad Sonar
 <hr>
 <!--
 **Harshadsonar/Harshadsonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
