@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB02D&width=435&lines=Hola%2C+%F0%9F%91%8B+I'm++Harshad+Sonar%F0%9F%98%8A;I'm+a+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;d)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB02D&width=435&lines=Hola%2C+%F0%9F%91%8B+I'm++Harshad+Sonar%F0%9F%98%8A;I'm+a+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshadsonar&theme=tokyonight)](https://git.io/streak-stats)
